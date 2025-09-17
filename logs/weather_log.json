@@ -1,16 +1,16 @@
 [
   {
-    "timestamp": "2025-09-17T16:49:51.911131",
+    "timestamp": "2025-09-17T14:05:05.687507+00:00",
     "city": "Pune",
-    "temp": 28,
-    "humidity": 73,
+    "temp": 25.22,
+    "humidity": 93,
     "description": "broken clouds"
   },
   {
-    "timestamp": "2025-09-17T16:49:59.816375",
-    "city": "Bengaluru",
-    "temp": 27.62,
-    "humidity": 66,
-    "description": "broken clouds"
+    "timestamp": "2025-09-17T14:10:18.413112+00:00",
+    "city": "Chitradurga",
+    "temp": 23.86,
+    "humidity": 83,
+    "description": "overcast clouds"
   }
 ]
