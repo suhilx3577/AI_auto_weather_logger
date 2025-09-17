@@ -1,0 +1,16 @@
+[
+  {
+    "timestamp": "2025-09-17T16:49:51.911131",
+    "city": "Pune",
+    "temp": 28,
+    "humidity": 73,
+    "description": "broken clouds"
+  },
+  {
+    "timestamp": "2025-09-17T16:49:59.816375",
+    "city": "Bengaluru",
+    "temp": 27.62,
+    "humidity": 66,
+    "description": "broken clouds"
+  }
+]
