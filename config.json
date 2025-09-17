@@ -1,0 +1,4 @@
+{
+    "log_file" : "weather_log.csv",
+    "BASE_URL" : "https://api.openweathermap.org/data/2.5/weather"
+}
