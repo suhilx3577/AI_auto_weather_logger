@@ -3,6 +3,7 @@ import json
 from datetime import datetime, timezone
 import logging
 import time
+import os
 
 # Logging configuration 
 logging.basicConfig(
@@ -11,8 +12,10 @@ logging.basicConfig(
     handlers=[logging.StreamHandler()]
 )
 
+CONFIG_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), "config.json")
+
 # Load BASE_URL from config.json
-with open ("config.json","r") as f:
+with open (CONFIG_PATH,"r") as f:
     BASE_URL = json.load(f).get('BASE_URL')
 
 def fetch_weather( city , api_key, retries = 3, backoff = 2, BASE_URL=BASE_URL ) :

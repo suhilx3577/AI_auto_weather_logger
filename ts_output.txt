@@ -1,0 +1,5 @@
+
+--- Task Scheduler Run ---
+Time: 2025-09-21 18:03:12.229228
+Working dir: C:\Users\suhil
+Python exe: D:\AI Automation\Automation Projects\weather_logger\venv\Scripts\python.exe
